@@ -117,8 +117,8 @@ ram.runtime = "1000M"
     [resources.sources]
 
     [resources.sources.main]
-    url = "https://github.com/otm33GH/bonfire-app/releases/download/v1.0.3-alpha.5/bonfire-1.0.3-social-yunohost.tar.gz"
-    sha256 = "c0f1ce69870dbe890891afe9e656d34f59cd7dcf6a673d6601765efd50c5a725"
+    url = "https://github.com/otm33GH/bonfire-app/releases/download/v1.0.3-alpha.6/bonfire-1.0.3-social-yunohost.tar.gz"
+    sha256 = "0b6c8a0180302c5511d8614a42b80238d4bdae449150dabb658ae7405195d93d"
     in_subdir = true
     
     #autoupdate.strategy = "latest_github_release"
